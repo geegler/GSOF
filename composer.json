@@ -1,0 +1,23 @@
+{
+  "name": "geegler/gsof",
+  "version": "1.0.0",
+  "type": "Application PHP Framework",
+  "description": "Geegler Simple Open Framework for PHP",
+  "keywords": ["php", "framework", "light framework", "mini framework"],
+  "homepage": "https://github.com/geegler/gsof",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+        "psr-4": { "": "lib/" }
+  
+  },
+  "authors": [
+  {
+    
+    "name": "Lorenzo De Leon Alipio"
+  }
+  ]
+}
